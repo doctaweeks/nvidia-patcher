@@ -1,0 +1,4 @@
+An alternative to using the '-cpu kvm=off' option when working with NVIDIA GPUs under KVM.
+
+See also:
+https://lists.gnu.org/archive/html/qemu-devel/2014-06/msg00302.html
